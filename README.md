@@ -7,4 +7,4 @@ To get started, clone the repository and install the necessary libraries. You ca
 on your python enviroment.
 
 ## Running
-Simply run ```python Eclipse_Forecast.py``` and follow the script instructions
+Simply run ```python Eclipse_Forecast.py``` and follow the script instructions.
